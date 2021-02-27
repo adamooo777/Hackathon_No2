@@ -1,0 +1,43 @@
+body {
+  background-image: url('https://i.pinimg.com/originals/a4/53/eb/a453ebed0a9405df368b013053fdcccf.jpg');
+}
+
+.myTime {
+  margin-top: 20px;
+}
+
+.myTitel {
+  margin-top: -10px;
+  font-size: 25px;
+}
+
+.myComment {
+  margin-top: -20px;
+  font-size: 20px;
+}
+
+#comment {
+  width: 40%;
+}
+
+.container {
+  margin-left: 30%;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-top: 100px;
+  border-radius: 1%;
+  width: 40%;
+}
+
+button {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10%;
+}
+
+.form {
+  padding-bottom: 20px;
+}
+
+.deleteButton {
+  margin-bottom: 10px;
+}
